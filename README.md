@@ -19,6 +19,9 @@ Earthquake data from the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthqu
 Created a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
 The data markers reflect the magnitude of the earthquake by their size and and depth of the earth quake by color. Earthquakes with higher magnitude appear larger and earthquakes with greater depth should appear darker in color.
 
+<p align="center">
+ <img src="images/Map.png">
+</p>
 
 
 
